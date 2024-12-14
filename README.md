@@ -11,7 +11,6 @@ Softs Skills travaillées :
   +  Utilsation de sommes cumulatives,  calcul de rotation des stocks.
 
 Compétences travaillées :
-  + Analyse univariée de données.
   + Analyse statistique (boîtes à moustaches, notion d'écart type, de Zscore et de Pareto).
   + Analyse exploratoire des données, vérifier leur cohérence et leur fiabilité.
   + Heatmap pour identifer des corrélations.
